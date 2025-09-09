@@ -24,4 +24,4 @@ I design and build systems that work in the lab *and* on the floor—combining P
 ### Contact
 - 📍 Bay Area, CA  
 - ✉️ tonigrubesic2002@gmail.com  
-- 🔗 LinkedIn: _add link_ • Portfolio/GitHub Pages: _add link_
+- 🔗 LinkedIn: (https://www.linkedin.com/in/toni-grubesic-24b116348/) • Portfolio/GitHub Pages: [(https://github.com/TG-Works/Protfolio)]
